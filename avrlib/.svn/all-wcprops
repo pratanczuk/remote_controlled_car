@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/44/trunk/projects/car/avrlib
+END
+mirf.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/44/trunk/projects/car/avrlib/mirf.h
+END
+spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/44/trunk/projects/car/avrlib/spi.c
+END
+mirf.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/44/trunk/projects/car/avrlib/mirf.c
+END
+nRF24L01.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/44/trunk/projects/car/avrlib/nRF24L01.h
+END
+spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/44/trunk/projects/car/avrlib/spi.h
+END
